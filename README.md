@@ -7,8 +7,8 @@
 
 ### Посомтрим как работает программа на примерах.
 ## 128
-![128](https://github.com/matveyglukhov/motik-s-repository/blob/main/128.png)
+![128](https://user-images.githubusercontent.com/113675991/190903438-35f1d080-34b4-4972-b369-e49a469bcdfd.png)
 ## 1003
 ![1003](https://user-images.githubusercontent.com/113675991/190903367-30e706b8-9ddc-48c6-9143-a71ec1ef7116.png)
 ## 256501
-![256501](https://user-images.githubusercontent.com/53860694/190847246-f3ab5de2-7b52-4d69-b924-77c00847a5de.jpg)
+![256501](https://user-images.githubusercontent.com/113675991/190903453-612c6378-a92f-4a97-abde-03232ca5bf51.png)
