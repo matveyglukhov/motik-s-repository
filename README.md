@@ -9,6 +9,6 @@
 ## 128
 ![128](https://github.com/matveyglukhov/motik-s-repository/blob/main/128.png)
 ## 1003
-![1003](https://user-images.githubusercontent.com/53860694/190847229-32bab2a6-5f12-41da-82e8-9af12d70a744.jpg)
+![1003](https://user-images.githubusercontent.com/113675991/190903367-30e706b8-9ddc-48c6-9143-a71ec1ef7116.png)
 ## 256501
 ![256501](https://user-images.githubusercontent.com/53860694/190847246-f3ab5de2-7b52-4d69-b924-77c00847a5de.jpg)
